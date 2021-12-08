@@ -8,7 +8,7 @@
 
 :books: I’m currently learning ReactJS and NodeJS
 
-:outbox_tray: 2021 Goals: create new projects to learn more about development and find a great opportunity.
+:outbox_tray: 2022 Goals: create new projects to learn more about development and find a great opportunity.
 
 ## About me
 
