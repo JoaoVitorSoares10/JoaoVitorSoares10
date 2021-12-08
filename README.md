@@ -2,7 +2,7 @@
 
 ## I'm João Vitor!
 
-:computer: I'm Front-End Developer!
+:computer: Student of Systems Analysis and Development!
 
 :house_with_garden: I’m from Brazil.
 
