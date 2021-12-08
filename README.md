@@ -1,24 +1,23 @@
-# Hi there!
+# Bem vindo!
 
-## I'm João Vitor!
+## João Vitor aqui!
 
-:computer: Student of Systems Analysis and Development!
+:computer: Estudante de Análise e Desenvolvimento de Sistemas!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Atibaia/SP
 
-:books: I’m currently learning ReactJS and NodeJS
+:books: Estudando principalmente ReactJS and NodeJS
 
-:outbox_tray: Goals: create new projects to learn more about development and find a great opportunity.
+:outbox_tray: Goals: Criar novos projetos para aprender mais sobre desenvolvimento e encontrar uma oportunidade na área de desenvolvimento.
 
-## Languages
+## Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSoares10&layout=compact)](https://github.com/JoaoVitorSoares10/github-readme-stats)
 
-
-## About me
+## Saiba mais sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoVitorSoares10)](https://github.com/JoaoVitorSoares10)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-morais-soares-0b4558205/)](https://www.linkedin.com/in/joao-vitor-morais-soares-0b4558205/)
 
-- Thanks for visiting.
+- Obrigado pela visita!
