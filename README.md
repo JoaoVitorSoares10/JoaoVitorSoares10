@@ -8,7 +8,12 @@
 
 :books: I’m currently learning ReactJS and NodeJS
 
-:outbox_tray: 2022 Goals: create new projects to learn more about development and find a great opportunity.
+:outbox_tray: Goals: create new projects to learn more about development and find a great opportunity.
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSoares10&layout=compact)](https://github.com/JoaoVitorSoares10/github-readme-stats)
+
 
 ## About me
 
