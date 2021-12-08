@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSoares10&langs_count=8)](https://github.com/JoaoVitorSoares10/github-readme-stats)
-
 
 Here are some ideas to get you started:
 
@@ -13,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSoares10&langs_count=8)](https://github.com/JoaoVitorSoares10/github-readme-stats)
