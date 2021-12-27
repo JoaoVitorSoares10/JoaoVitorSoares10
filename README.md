@@ -8,7 +8,7 @@
 
 :books: Estudando principalmente ReactJS and NodeJS
 
-:outbox_tray: Goals: Criar novos projetos para aprender mais sobre desenvolvimento e encontrar uma oportunidade na área de desenvolvimento.
+:outbox_tray: Meu objetivo é criar novos projetos para aprender mais sobre desenvolvimento e encontrar uma oportunidade na área de desenvolvimento.
 
 ## Tecnologias e Linguagens
 
