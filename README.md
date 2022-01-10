@@ -4,11 +4,11 @@
 
 :computer: Estudante de Análise e Desenvolvimento de Sistemas!
 
-:house_with_garden: Atibaia/SP
+:house_with_garden: Atibaia/SP.
 
-:books: Estudando principalmente ReactJS and NodeJS
+:books: Estudando principalmente ReactJS and NodeJS.
 
-:outbox_tray: Meu objetivo é criar novos projetos para aprender mais sobre desenvolvimento e encontrar uma oportunidade na área de desenvolvimento.
+:outbox_tray: Meu objetivo é criar novos projetos para aprender mais sobre desenvolvimento web!
 
 ## Tecnologias e Linguagens
 
@@ -19,6 +19,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSoares10&layout=compact)](https://github.com/JoaoVitorSoares10/github-readme-stats)
@@ -27,6 +28,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoVitorSoares10)](https://github.com/JoaoVitorSoares10)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-morais-soares-0b4558205/)](https://www.linkedin.com/in/joao-vitor-morais-soares-0b4558205/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-morais-soares-49ba17228/)
 
 - Obrigado pela visita!
