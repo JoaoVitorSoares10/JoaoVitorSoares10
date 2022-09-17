@@ -2,7 +2,7 @@
 
 ## João Vitor aqui!
 
-:computer: Estudante de Análise e Desenvolvimento de Sistemas!
+:computer: Desenvolvedor Web!
 
 :house_with_garden: Atibaia/SP.
 
