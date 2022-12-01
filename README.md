@@ -4,7 +4,7 @@ Hi 👋 My name is João Vitor
 Front End Developer
 -------------------
 
-Profissional iniciante na área de tecnologia da informação. Atualmente, atuando na área de infraestrutura e suporte de TI e desenvolvendo meus conhecimentos em desenvolvimento de software.
+Beginner professional in the area of information technology. Currently, working in the area of infrastructure and IT support and developing my knowledge in software development.
 
 *   🌍  I'm based in Atibaia/SP
 *   ✉️  You can contact me at [joaovitor.soaresti@gmail.com](mailto:joaovitor.soaresti@gmail.com)
