@@ -1,4 +1,4 @@
-Hi 👋 My name is João Vitor de Morais Soares
+Hi 👋 My name is João Vitor
 ============================================
 
 Front End Developer
